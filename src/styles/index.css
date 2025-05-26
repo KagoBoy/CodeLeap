@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+@import "tailwindcss";
+
+@import "tailwindcss";
+@theme {
+  --color-cinza: #DDDDDD;
+  --color-button: #7695ec;
+  --color-border-color: #999999;
+  --color-cinza-escuro: #777777;
+  --color-button-delete: #FF5151;
+  --color-button-save: #47b960;
+}
+
+@theme {
+  --text-title: 22px; 
+  --text-subtitle: 16px;
+  --text-post: 18px;
+}
+
